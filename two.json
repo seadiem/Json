@@ -2,7 +2,11 @@
 TAG
 
 {
-  "cast": "bee"
+  "cast": {
+           "first",
+           "second",
+           "third"
+          }
 }
 
 TAG
